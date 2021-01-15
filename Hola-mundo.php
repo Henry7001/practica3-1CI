@@ -1,4 +1,5 @@
 <?php
   echo "¡Hola mundo!";
-  echo "Henrry Ruiz";
+  echo "Henry Ruiz";
+  echo "Curso 3-1";
 ?>
